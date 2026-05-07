@@ -1,0 +1,20 @@
+{
+  "product": {
+    "repository": "adobe-video-audio-delivery-qa-suite",
+    "title": "Adobe動画・音声納品検品スイート"
+  },
+  "items": [
+    {
+      "id": "ok-1",
+      "title": "Adobe動画・音声納品検品スイート 正常ケース",
+      "source": "source-ok",
+      "sequence": "sequence-ok",
+      "exportPreset": "exportPreset-ok",
+      "loudness": "loudness-ok",
+      "owner": "owner-ok",
+      "acceptance": "acceptance-ok",
+      "status": "ready",
+      "noiseProfile": "ready"
+    }
+  ]
+}

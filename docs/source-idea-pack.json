@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\AdobePlugin\\created_idea_006_adobe-video-audio-delivery-qa-suite",
+  "zip": "D:\\AI\\AdobePlugin\\created_idea_006_adobe-video-audio-delivery-qa-suite\\idea_006_adobe-video-audio-delivery-qa-suite.zip",
+  "rank": 29,
+  "domain": "AdobePlugin",
+  "ideaNo": 6,
+  "title": "Adobe動画・音声納品検品スイート",
+  "overview": "字幕、書き出し設定、AEコンポ依存、MOGRT入力項目、ラウドネス、ノイズを納品単位で検査し、修正証跡を残す。",
+  "problem": "動画・音声案件は字幕、MOGRT、AE依存、エンコード、音量検査が別々になり手戻りが出やすい。",
+  "differentiation": "編集、モーション、音声、書き出しを横断し、納品前検査を同じ証跡にする。"
+}
