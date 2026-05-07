@@ -1,0 +1,7 @@
+{
+  "id": "adobe-video-audio-delivery-qa-suite",
+  "name": "Adobe動画・音声納品検品スイート",
+  "host": "PremierePro",
+  "version": "0.1.0",
+  "entry": "src/main.jsx"
+}
