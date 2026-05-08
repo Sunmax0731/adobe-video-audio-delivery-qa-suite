@@ -1,0 +1,18 @@
+{
+  "id": "com.sunmax0731.adobe-video-audio-delivery-qa-suite",
+  "name": "Adobe動画・音声納品検品スイート",
+  "version": "0.1.0-alpha.1",
+  "manifestVersion": 5,
+  "host": {
+    "app": "PremierePro",
+    "minVersion": "1.0.0"
+  },
+  "entrypoints": [
+    {
+      "type": "panel",
+      "id": "closed-alpha-panel",
+      "label": "Adobe動画・音声納品検品スイート",
+      "mainPath": "panel.html"
+    }
+  ]
+}

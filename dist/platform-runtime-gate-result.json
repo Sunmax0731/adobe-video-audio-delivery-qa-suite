@@ -1,0 +1,9 @@
+{
+  "product": "adobe-video-audio-delivery-qa-suite",
+  "platformType": "adobe-host-plugin",
+  "pass": true,
+  "method": "runtime-gate",
+  "manualTest": "not-run-by-codex",
+  "manifest": "plugin/manifest.json",
+  "panel": "plugin/panel.html"
+}
